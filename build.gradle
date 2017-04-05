@@ -32,5 +32,6 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('com.h2database:h2')
     compile('joda-time:joda-time:2.4')
+    compile('org.apache.commons:commons-lang3:3.5')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
